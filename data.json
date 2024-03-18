@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "namePlace": "Мегаполис",
+        "adress": "Свердловский просп., 51А",
+        "dateCreate": "2023-10-20",
+        "description": "<h1>Мегаполис</h1><p>Мегаполис - это развлекательный центр. В мегаполисе есть:</p><ul><li>кинотеатр</li><li>буолинг</li><li>Бары, пабы, рестораны вообщем можно пожрать</li></ul>",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 2,
+        "namePlace": "Место 1",
+        "adress": "улица 1",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 3,
+        "namePlace": "Место 2",
+        "adress": "улица 2",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 4,
+        "namePlace": "Место 3",
+        "adress": "улица 3",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 5,
+        "namePlace": "Место 4",
+        "adress": "улица 4",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 6,
+        "namePlace": "Место 5",
+        "adress": "улица 5",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 7,
+        "namePlace": "Место 6",
+        "adress": "улица 6",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 8,
+        "namePlace": "Место 7",
+        "adress": "улица 7",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 9,
+        "namePlace": "Место 8",
+        "adress": "улица 8",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 10,
+        "namePlace": "Место 9",
+        "adress": "улица 9",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 11,
+        "namePlace": "Место 10",
+        "adress": "улица 10",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    },
+    {
+        "id": 12,
+        "namePlace": "Место 11",
+        "adress": "улица 11",
+        "dateCreate": "2023-10-20",
+        "description": "текст текст текст текст текст текст текст текст текст текст текст текст текст",
+        "likes": 10,
+        "userData": [
+            {
+                "id": 62107393,
+                "photo_200": "https://sun13-1.userapi.com/impf/3OhLINnHeUU5AcPrUWIRnlROMVsENVk-ooAkiQ/fmc4r1Gy1No.jpg?quality=96&as=50x50,100x100,200x200,400x400&sign=89312ba8d72343853abcc9465bd06b6e&u=K0aS-GTXBoWnULSQ827F4s5OaR9sZwX42fh0C9XAAIg&cs=200x200\r\n",
+                "first_name": "Евгений",
+                "last_name": "Ращектаев"
+            }
+        ],
+        "imgsFile": []
+    }
+]
